@@ -133,6 +133,8 @@ Provide decision makers, analysts and executives with a unified environment for:
 * LLM Insights
 * Automated Recommendations
 * Explainable Anomaly Detection
+* Data Hub & File Management
+* AI-Powered CFO Copilot
 
 
 para clonar el proyecto 
@@ -141,8 +143,3 @@ https://github.com/wgekko/tech-sales-analytics-plataform.git
 video demo 
 
 
-
-
-
-* Data Hub & File Management
-* AI-Powered CFO Copilot
