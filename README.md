@@ -143,3 +143,12 @@ https://github.com/wgekko/tech-sales-analytics-plataform.git
 video demo 
 
 
+
+
+
+
+https://github.com/user-attachments/assets/d5bbbfeb-76ee-4c03-a7bf-4f693a519775
+
+
+
+
